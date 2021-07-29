@@ -1,0 +1,22 @@
+{
+  "name": "async-defer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohaz87/async-defer-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohaz87/async-defer-test/issues"
+  },
+  "homepage": "https://github.com/bohaz87/async-defer-test#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
